@@ -1,0 +1,36 @@
+Exchange Name;Yahoo Finance Suffix
+Taiwan Stock Exchange;.TW
+Hong Kong Exchanges And Clearing Ltd;.HK
+Korea Exchange (Stock Market);.KS
+Korea Exchange (Kosdaq);.KQ
+National Stock Exchange Of India;.NS
+Bse Ltd (Bombay Stock Exchange);.BO
+NASDAQ;
+New York Stock Exchange Inc.;
+Saudi Stock Exchange;.SR
+Johannesburg Stock Exchange;.JO
+Indonesia Stock Exchange;.JK
+XBSP (Brazil, B3 - Brasil Bolsa Balcão);.SA
+Kuwait Stock Exchange;.KW
+Dubai Financial Market;.DU
+Qatar Exchange;.QA
+Bolsa Mexicana De Valores (Mexican Stock Exchange);.MX
+Abu Dhabi Securities Exchange;.AD
+Bursa Malaysia;.KL
+Shanghai Stock Exchange;.SS
+Shenzhen Stock Exchange;.SZ
+Budapest Stock Exchange;.BD
+Warsaw Stock Exchange/Equities/Main Market;.WA
+Stock Exchange Of Thailand;.BK
+Athens Exchange S.A. Cash Market;.AT
+Gretai Securities Market (Taipei Exchange, Taiwan OTC);.TWO
+Philippine Stock Exchange Inc.;.PS
+Prague Stock Exchange;.PR
+Istanbul Stock Exchange;.IS
+Santiago Stock Exchange;.SN
+Egyptian Exchange;.CA
+Bolsa De Valores De Colombia;.CN
+Standard-Classica-Forts (Moscow Exchange);.ME
+London Stock Exchange;.L
+NO MARKET (E.G. UNLISTED);
+Ice Futures U.S.;
