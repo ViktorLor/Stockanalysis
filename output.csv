@@ -1,0 +1,158 @@
+Ticker,Classification,AssignedPerson,Number
+ABBV,Dividend,Viktor,1
+ARE,Momentum trades medium growth,Frank,1
+ALL,Momentum trades medium growth,Firale,1
+AXP,Momentum trades,Eva,1
+AWK,Momentum trades medium growth,Florian,1
+AMP,Momentum trades medium growth,Viktor,2
+APH,Momentum trades medium growth,Frank,2
+ANSS,Momentum trades high growth,Firale,2
+AON,Momentum trades medium growth,Eva,2
+AAPL,Momentum trades,Florian,2
+AMAT,Momentum trades,Viktor,3
+ACGL,Momentum trades high growth,Frank,3
+AJG,Momentum trades medium growth,Firale,3
+ADSK,Momentum trades medium growth,Eva,3
+ADP,Momentum trades,Florian,3
+AXON,Momentum trades high growth,Viktor,4
+BAC,Dividend,Frank,4
+BX,Dividend,Firale,4
+BA,Turnaround,Eva,4
+BKNG,Momentum trades,Florian,4
+BMY,Momentum trades,Viktor,5
+CDNS,Momentum trades medium growth,Frank,5
+CPB,Momentum trades medium growth,Firale,5
+CCL,Momentum trades medium growth,Eva,5
+CARR,Momentum trades medium growth,Florian,5
+CAT,Turnaround,Viktor,6
+CBOE,Momentum trades medium growth,Frank,6
+CBRE,Momentum trades medium growth,Firale,6
+COR,Momentum trades medium growth,Eva,6
+SCHW,Momentum trades,Florian,6
+CVX,Dividend,Viktor,7
+CMG,Momentum trades medium growth,Frank,7
+CB,Momentum trades,Firale,7
+CI,Momentum trades medium growth,Eva,7
+CINF,Momentum trades high growth,Florian,7
+CSCO,Dividend,Viktor,8
+C,Turnaround,Frank,8
+CLX,Momentum trades medium growth,Firale,8
+CME,Momentum trades medium growth,Eva,8
+KO,Dividend,Florian,8
+CMCSA,Momentum trades,Viktor,9
+COP,Turnaround,Frank,9
+CSGP,Momentum trades medium growth,Firale,9
+DAY,Momentum trades medium growth,Eva,9
+DECK,Momentum trades medium growth,Florian,9
+DFS,Momentum trades high growth,Viktor,10
+ETN,Momentum trades,Frank,10
+ECL,Momentum trades medium growth,Firale,10
+EIX,Momentum trades medium growth,Eva,10
+EMR,Momentum trades medium growth,Florian,10
+EOG,Turnaround,Viktor,11
+EQT,Momentum trades medium growth,Frank,11
+EQIX,Momentum trades medium growth,Firale,11
+ERIE,Momentum trades medium growth,Eva,11
+EG,Momentum trades medium growth,Florian,11
+EXPD,Momentum trades high growth,Viktor,12
+EXR,Momentum trades medium growth,Frank,12
+XOM,Dividend,Firale,12
+FICO,Momentum trades medium growth,Eva,12
+FDX,Momentum trades medium growth,Florian,12
+FSLR,Momentum trades medium growth,Viktor,13
+FI,Momentum trades,Frank,13
+FTNT,Momentum trades medium growth,Firale,13
+FOXA,Momentum trades medium growth,Eva,13
+FOX,Momentum trades medium growth,Florian,13
+BEN,Momentum trades medium growth,Viktor,14
+FCX,Momentum trades medium growth,Frank,14
+GRMN,Momentum trades medium growth,Firale,14
+GE,Momentum trades,Eva,14
+GD,Momentum trades medium growth,Florian,14
+GM,Momentum trades medium growth,Viktor,15
+GILD,Momentum trades,Frank,15
+DOC,Momentum trades medium growth,Firale,15
+HES,Momentum trades medium growth,Eva,15
+HPE,Momentum trades medium growth,Florian,15
+HD,Momentum trades,Viktor,16
+HON,Momentum trades,Frank,16
+HWM,Momentum trades medium growth,Firale,16
+HUM,Momentum trades medium growth,Eva,16
+IBM,Dividend,Florian,16
+ITW,Turnaround,Viktor,17
+INCY,Momentum trades medium growth,Frank,17
+PODD,Momentum trades medium growth,Firale,17
+INTC,Turnaround,Eva,17
+ICE,Momentum trades medium growth,Florian,17
+IRM,Momentum trades medium growth,Viktor,18
+JNJ,Momentum trades,Frank,18
+JCI,Turnaround,Firale,18
+JPM,Dividend,Eva,18
+KIM,Momentum trades medium growth,Florian,18
+KMI,Turnaround,Viktor,19
+KLAC,Momentum trades medium growth,Frank,19
+LRCX,Momentum trades medium growth,Firale,19
+L,Momentum trades medium growth,Eva,19
+LOW,Turnaround,Florian,19
+MMC,Momentum trades,Viktor,20
+MCD,Dividend,Frank,20
+MCK,Momentum trades medium growth,Firale,20
+MRK,Dividend,Eva,20
+MET,Momentum trades medium growth,Florian,20
+MOH,Momentum trades medium growth,Viktor,21
+MPWR,Momentum trades high growth,Frank,21
+MCO,Momentum trades medium growth,Firale,21
+MS,Dividend,Eva,21
+MSCI,Momentum trades medium growth,Florian,21
+NDAQ,Momentum trades high growth,Viktor,22
+NEM,Momentum trades high growth,Frank,22
+NEE,Momentum trades,Firale,22
+NTRS,Momentum trades medium growth,Eva,22
+NCLH,Momentum trades medium growth,Florian,22
+NXPI,Turnaround,Viktor,23
+OKE,Momentum trades medium growth,Frank,23
+ORCL,Momentum trades,Firale,23
+PCAR,Turnaround,Eva,23
+PKG,Momentum trades medium growth,Florian,23
+PAYC,Momentum trades medium growth,Viktor,24
+PEP,Dividend,Frank,24
+PM,Momentum trades,Firale,24
+PG,Dividend,Eva,24
+PRU,Momentum trades high growth,Florian,24
+PTC,Momentum trades medium growth,Viktor,25
+PHM,Momentum trades medium growth,Frank,25
+PWR,Momentum trades medium growth,Firale,25
+RJF,Momentum trades medium growth,Eva,25
+O,Momentum trades medium growth,Florian,25
+REGN,Momentum trades medium growth,Viktor,26
+RF,Momentum trades medium growth,Frank,26
+RMD,Momentum trades medium growth,Firale,26
+ROP,Momentum trades medium growth,Eva,26
+RCL,Momentum trades medium growth,Florian,26
+CRM,Momentum trades,Viktor,27
+SLB,Momentum trades medium growth,Frank,27
+STX,Momentum trades high growth,Firale,27
+SJM,Momentum trades medium growth,Eva,27
+SW,Momentum trades high growth,Florian,27
+SBUX,Turnaround,Viktor,28
+STT,Momentum trades medium growth,Frank,28
+SMCI,Momentum trades high growth,Firale,28
+SYF,Momentum trades medium growth,Eva,28
+SNPS,Momentum trades medium growth,Florian,28
+TSLA,Momentum trades,Viktor,29
+TXN,Turnaround,Frank,29
+TJX,Momentum trades,Firale,29
+TT,Momentum trades medium growth,Eva,29
+TDG,Momentum trades medium growth,Florian,29
+TRV,Momentum trades medium growth,Viktor,30
+USB,Turnaround,Frank,30
+UPS,Momentum trades,Firale,30
+UNH,Momentum trades,Eva,30
+UHS,Momentum trades medium growth,Florian,30
+VST,Momentum trades high growth,Viktor,31
+WRB,Momentum trades medium growth,Frank,31
+WFC,Dividend,Firale,31
+WELL,Momentum trades medium growth,Eva,31
+WDAY,Momentum trades medium growth,Florian,31
+ZBRA,Momentum trades high growth,Viktor,32
+ZTS,Momentum trades medium growth,Frank,32

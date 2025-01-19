@@ -1,0 +1,504 @@
+Ticker,Classification
+MMM,Unclassified
+AOS,Unclassified
+ABT,Unclassified
+ABBV,Dividend
+ACN,Unclassified
+ADBE,Unclassified
+AMD,Unclassified
+AES,Unclassified
+AFL,Unclassified
+A,Unclassified
+APD,Unclassified
+ABNB,Unclassified
+AKAM,Unclassified
+ALB,Unclassified
+ARE,Momentum trades medium growth
+ALGN,Unclassified
+ALLE,Unclassified
+LNT,Unclassified
+ALL,Momentum trades medium growth
+GOOGL,Unclassified
+GOOG,Unclassified
+MO,Unclassified
+AMZN,Unclassified
+AMCR,Unclassified
+AEE,Unclassified
+AEP,Unclassified
+AXP,Momentum trades
+AIG,Unclassified
+AMT,Unclassified
+AWK,Momentum trades medium growth
+AMP,Momentum trades medium growth
+AME,Unclassified
+AMGN,Unclassified
+APH,Momentum trades medium growth
+ADI,Unclassified
+ANSS,Momentum trades high growth
+AON,Momentum trades medium growth
+APA,Unclassified
+APO,Unclassified
+AAPL,Momentum trades
+AMAT,Momentum trades
+APTV,Unclassified
+ACGL,Momentum trades high growth
+ADM,Unclassified
+ANET,Unclassified
+AJG,Momentum trades medium growth
+AIZ,Unclassified
+T,Unclassified
+ATO,Unclassified
+ADSK,Momentum trades medium growth
+ADP,Momentum trades
+AZO,Unclassified
+AVB,Unclassified
+AVY,Unclassified
+AXON,Momentum trades high growth
+BKR,Unclassified
+BALL,Unclassified
+BAC,Dividend
+BAX,Unclassified
+BDX,Unclassified
+BRK.B,Unclassified
+BBY,Unclassified
+TECH,Unclassified
+BIIB,Unclassified
+BLK,Unclassified
+BX,Dividend
+BK,Unclassified
+BA,Turnaround
+BKNG,Momentum trades
+BWA,Unclassified
+BSX,Unclassified
+BMY,Momentum trades
+AVGO,Unclassified
+BR,Unclassified
+BRO,Unclassified
+BF.B,Unclassified
+BLDR,Unclassified
+BG,Unclassified
+BXP,Unclassified
+CHRW,Unclassified
+CDNS,Momentum trades medium growth
+CZR,Unclassified
+CPT,Unclassified
+CPB,Momentum trades medium growth
+COF,Unclassified
+CAH,Unclassified
+KMX,Unclassified
+CCL,Momentum trades medium growth
+CARR,Momentum trades medium growth
+CAT,Turnaround
+CBOE,Momentum trades medium growth
+CBRE,Momentum trades medium growth
+CDW,Unclassified
+CE,Unclassified
+COR,Momentum trades medium growth
+CNC,Unclassified
+CNP,Unclassified
+CF,Unclassified
+CRL,Unclassified
+SCHW,Momentum trades
+CHTR,Unclassified
+CVX,Dividend
+CMG,Momentum trades medium growth
+CB,Momentum trades
+CHD,Unclassified
+CI,Momentum trades medium growth
+CINF,Momentum trades high growth
+CTAS,Unclassified
+CSCO,Dividend
+C,Turnaround
+CFG,Unclassified
+CLX,Momentum trades medium growth
+CME,Momentum trades medium growth
+CMS,Unclassified
+KO,Dividend
+CTSH,Unclassified
+CL,Unclassified
+CMCSA,Momentum trades
+CAG,Unclassified
+COP,Turnaround
+ED,Unclassified
+STZ,Unclassified
+CEG,Unclassified
+COO,Unclassified
+CPRT,Unclassified
+GLW,Unclassified
+CPAY,Unclassified
+CTVA,Unclassified
+CSGP,Momentum trades medium growth
+COST,Unclassified
+CTRA,Unclassified
+CRWD,Unclassified
+CCI,Unclassified
+CSX,Unclassified
+CMI,Unclassified
+CVS,Unclassified
+DHR,Unclassified
+DRI,Unclassified
+DVA,Unclassified
+DAY,Momentum trades medium growth
+DECK,Momentum trades medium growth
+DE,Unclassified
+DELL,Unclassified
+DAL,Unclassified
+DVN,Unclassified
+DXCM,Unclassified
+FANG,Unclassified
+DLR,Unclassified
+DFS,Momentum trades high growth
+DG,Unclassified
+DLTR,Unclassified
+D,Unclassified
+DPZ,Unclassified
+DOV,Unclassified
+DOW,Unclassified
+DHI,Unclassified
+DTE,Unclassified
+DUK,Unclassified
+DD,Unclassified
+EMN,Unclassified
+ETN,Momentum trades
+EBAY,Unclassified
+ECL,Momentum trades medium growth
+EIX,Momentum trades medium growth
+EW,Unclassified
+EA,Unclassified
+ELV,Unclassified
+EMR,Momentum trades medium growth
+ENPH,Unclassified
+ETR,Unclassified
+EOG,Turnaround
+EPAM,Unclassified
+EQT,Momentum trades medium growth
+EFX,Unclassified
+EQIX,Momentum trades medium growth
+EQR,Unclassified
+ERIE,Momentum trades medium growth
+ESS,Unclassified
+EL,Unclassified
+EG,Momentum trades medium growth
+EVRG,Unclassified
+ES,Unclassified
+EXC,Unclassified
+EXPE,Unclassified
+EXPD,Momentum trades high growth
+EXR,Momentum trades medium growth
+XOM,Dividend
+FFIV,Unclassified
+FDS,Unclassified
+FICO,Momentum trades medium growth
+FAST,Unclassified
+FRT,Unclassified
+FDX,Momentum trades medium growth
+FIS,Unclassified
+FITB,Unclassified
+FSLR,Momentum trades medium growth
+FE,Unclassified
+FI,Momentum trades
+FMC,Unclassified
+F,Unclassified
+FTNT,Momentum trades medium growth
+FTV,Unclassified
+FOXA,Momentum trades medium growth
+FOX,Momentum trades medium growth
+BEN,Momentum trades medium growth
+FCX,Momentum trades medium growth
+GRMN,Momentum trades medium growth
+IT,Unclassified
+GE,Momentum trades
+GEHC,Unclassified
+GEV,Unclassified
+GEN,Unclassified
+GNRC,Unclassified
+GD,Momentum trades medium growth
+GIS,Unclassified
+GM,Momentum trades medium growth
+GPC,Unclassified
+GILD,Momentum trades
+GPN,Unclassified
+GL,Unclassified
+GDDY,Unclassified
+GS,Unclassified
+HAL,Unclassified
+HIG,Unclassified
+HAS,Unclassified
+HCA,Unclassified
+DOC,Momentum trades medium growth
+HSIC,Unclassified
+HSY,Unclassified
+HES,Momentum trades medium growth
+HPE,Momentum trades medium growth
+HLT,Unclassified
+HOLX,Unclassified
+HD,Momentum trades
+HON,Momentum trades
+HRL,Unclassified
+HST,Unclassified
+HWM,Momentum trades medium growth
+HPQ,Unclassified
+HUBB,Unclassified
+HUM,Momentum trades medium growth
+HBAN,Unclassified
+HII,Unclassified
+IBM,Dividend
+IEX,Unclassified
+IDXX,Unclassified
+ITW,Turnaround
+INCY,Momentum trades medium growth
+IR,Unclassified
+PODD,Momentum trades medium growth
+INTC,Turnaround
+ICE,Momentum trades medium growth
+IFF,Unclassified
+IP,Unclassified
+IPG,Unclassified
+INTU,Unclassified
+ISRG,Unclassified
+IVZ,Unclassified
+INVH,Unclassified
+IQV,Unclassified
+IRM,Momentum trades medium growth
+JBHT,Unclassified
+JBL,Unclassified
+JKHY,Unclassified
+J,Unclassified
+JNJ,Momentum trades
+JCI,Turnaround
+JPM,Dividend
+JNPR,Unclassified
+K,Unclassified
+KVUE,Unclassified
+KDP,Unclassified
+KEY,Unclassified
+KEYS,Unclassified
+KMB,Unclassified
+KIM,Momentum trades medium growth
+KMI,Turnaround
+KKR,Unclassified
+KLAC,Momentum trades medium growth
+KHC,Unclassified
+KR,Unclassified
+LHX,Unclassified
+LH,Unclassified
+LRCX,Momentum trades medium growth
+LW,Unclassified
+LVS,Unclassified
+LDOS,Unclassified
+LEN,Unclassified
+LII,Unclassified
+LLY,Unclassified
+LIN,Unclassified
+LYV,Unclassified
+LKQ,Unclassified
+LMT,Unclassified
+L,Momentum trades medium growth
+LOW,Turnaround
+LULU,Unclassified
+LYB,Unclassified
+MTB,Unclassified
+MPC,Unclassified
+MKTX,Unclassified
+MAR,Unclassified
+MMC,Momentum trades
+MLM,Unclassified
+MAS,Unclassified
+MA,Unclassified
+MTCH,Unclassified
+MKC,Unclassified
+MCD,Dividend
+MCK,Momentum trades medium growth
+MDT,Unclassified
+MRK,Dividend
+META,Unclassified
+MET,Momentum trades medium growth
+MTD,Unclassified
+MGM,Unclassified
+MCHP,Unclassified
+MU,Unclassified
+MSFT,Unclassified
+MAA,Unclassified
+MRNA,Unclassified
+MHK,Unclassified
+MOH,Momentum trades medium growth
+TAP,Unclassified
+MDLZ,Unclassified
+MPWR,Momentum trades high growth
+MNST,Unclassified
+MCO,Momentum trades medium growth
+MS,Dividend
+MOS,Unclassified
+MSI,Unclassified
+MSCI,Momentum trades medium growth
+NDAQ,Momentum trades high growth
+NTAP,Unclassified
+NFLX,Unclassified
+NEM,Momentum trades high growth
+NWSA,Unclassified
+NWS,Unclassified
+NEE,Momentum trades
+NKE,Unclassified
+NI,Unclassified
+NDSN,Unclassified
+NSC,Unclassified
+NTRS,Momentum trades medium growth
+NOC,Unclassified
+NCLH,Momentum trades medium growth
+NRG,Unclassified
+NUE,Unclassified
+NVDA,Unclassified
+NVR,Unclassified
+NXPI,Turnaround
+ORLY,Unclassified
+OXY,Unclassified
+ODFL,Unclassified
+OMC,Unclassified
+ON,Unclassified
+OKE,Momentum trades medium growth
+ORCL,Momentum trades
+OTIS,Unclassified
+PCAR,Turnaround
+PKG,Momentum trades medium growth
+PLTR,Unclassified
+PANW,Unclassified
+PARA,Unclassified
+PH,Unclassified
+PAYX,Unclassified
+PAYC,Momentum trades medium growth
+PYPL,Unclassified
+PNR,Unclassified
+PEP,Dividend
+PFE,Unclassified
+PCG,Unclassified
+PM,Momentum trades
+PSX,Unclassified
+PNW,Unclassified
+PNC,Unclassified
+POOL,Unclassified
+PPG,Unclassified
+PPL,Unclassified
+PFG,Unclassified
+PG,Dividend
+PGR,Unclassified
+PLD,Unclassified
+PRU,Momentum trades high growth
+PEG,Unclassified
+PTC,Momentum trades medium growth
+PSA,Unclassified
+PHM,Momentum trades medium growth
+PWR,Momentum trades medium growth
+QCOM,Unclassified
+DGX,Unclassified
+RL,Unclassified
+RJF,Momentum trades medium growth
+RTX,Unclassified
+O,Momentum trades medium growth
+REG,Unclassified
+REGN,Momentum trades medium growth
+RF,Momentum trades medium growth
+RSG,Unclassified
+RMD,Momentum trades medium growth
+RVTY,Unclassified
+ROK,Unclassified
+ROL,Unclassified
+ROP,Momentum trades medium growth
+ROST,Unclassified
+RCL,Momentum trades medium growth
+SPGI,Unclassified
+CRM,Momentum trades
+SBAC,Unclassified
+SLB,Momentum trades medium growth
+STX,Momentum trades high growth
+SRE,Unclassified
+NOW,Unclassified
+SHW,Unclassified
+SPG,Unclassified
+SWKS,Unclassified
+SJM,Momentum trades medium growth
+SW,Momentum trades high growth
+SNA,Unclassified
+SOLV,Unclassified
+SO,Unclassified
+LUV,Unclassified
+SWK,Unclassified
+SBUX,Turnaround
+STT,Momentum trades medium growth
+STLD,Unclassified
+STE,Unclassified
+SYK,Unclassified
+SMCI,Momentum trades high growth
+SYF,Momentum trades medium growth
+SNPS,Momentum trades medium growth
+SYY,Unclassified
+TMUS,Unclassified
+TROW,Unclassified
+TTWO,Unclassified
+TPR,Unclassified
+TRGP,Unclassified
+TGT,Unclassified
+TEL,Unclassified
+TDY,Unclassified
+TFX,Unclassified
+TER,Unclassified
+TSLA,Momentum trades
+TXN,Turnaround
+TPL,Unclassified
+TXT,Unclassified
+TMO,Unclassified
+TJX,Momentum trades
+TSCO,Unclassified
+TT,Momentum trades medium growth
+TDG,Momentum trades medium growth
+TRV,Momentum trades medium growth
+TRMB,Unclassified
+TFC,Unclassified
+TYL,Unclassified
+TSN,Unclassified
+USB,Turnaround
+UBER,Unclassified
+UDR,Unclassified
+ULTA,Unclassified
+UNP,Unclassified
+UAL,Unclassified
+UPS,Momentum trades
+URI,Unclassified
+UNH,Momentum trades
+UHS,Momentum trades medium growth
+VLO,Unclassified
+VTR,Unclassified
+VLTO,Unclassified
+VRSN,Unclassified
+VRSK,Unclassified
+VZ,Unclassified
+VRTX,Unclassified
+VTRS,Unclassified
+VICI,Unclassified
+V,Unclassified
+VST,Momentum trades high growth
+VMC,Unclassified
+WRB,Momentum trades medium growth
+GWW,Unclassified
+WAB,Unclassified
+WBA,Unclassified
+WMT,Unclassified
+DIS,Unclassified
+WBD,Unclassified
+WM,Unclassified
+WAT,Unclassified
+WEC,Unclassified
+WFC,Dividend
+WELL,Momentum trades medium growth
+WST,Unclassified
+WDC,Unclassified
+WY,Unclassified
+WMB,Unclassified
+WTW,Unclassified
+WDAY,Momentum trades medium growth
+WYNN,Unclassified
+XEL,Unclassified
+XYL,Unclassified
+YUM,Unclassified
+ZBRA,Momentum trades high growth
+ZBH,Unclassified
+ZTS,Momentum trades medium growth
